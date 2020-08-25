@@ -7,17 +7,21 @@
  revision="5"
  schemaVersion="1054"
  universal="password">
-    <Groups>
-        <Group
+    <Projects>
+        <Project
+         artifactId=""
+         dependsOn="{&quot;extensions&quot;:&quot;&quot;,&quot;projects&quot;:&quot;&quot;}"
          description=""
          documentationContent=""
+         groupId=""
          homeMashup=""
-         lastModifiedDate="2020-07-15T16:10:22.442Z"
-         name="DeviceUsers"
-         projectName="Simulator"
-         scimDisplayName=""
-         scimExternalId=""
-         scimId=""
+         lastModifiedDate="2020-08-25T15:36:17.305Z"
+         minPlatformVersion=""
+         name="SA_Project"
+         packageVersion="1.0.0"
+         projectName="SA_Project"
+         publishResult=""
+         state="DRAFT"
          tags="">
             <avatar></avatar>
             <DesignTimePermissions>
@@ -33,13 +37,6 @@
             </VisibilityPermissions>
             <ConfigurationTableDefinitions></ConfigurationTableDefinitions>
             <ConfigurationTables></ConfigurationTables>
-            <Members>
-                <Members>
-                    <Member
-                     name="testuser"
-                     type="User"></Member>
-                </Members>
-            </Members>
-        </Group>
-    </Groups>
+        </Project>
+    </Projects>
 </Entities>
